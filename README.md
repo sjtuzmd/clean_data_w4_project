@@ -1,6 +1,6 @@
 ---
-Course: "Getting and Cleaning Data"
-Assignment: "Course Project"
+Course: "Getting and Cleaning Data - Course Project"
+Document: "Read Me"
 ---
 
 ## Background
@@ -8,7 +8,7 @@ Assignment: "Course Project"
 This is the course project for the Getting and Cleaning Data Coursera course. The following files are included in the submission.
 
   1. ***README.md*** - includes the explanation of course project submission
-  2. ***TBD*** - includes the codebook for the data
+  2. ***CodeBook.md*** - includes the codebook for the data
   3. ***run_analysis.R*** - includes R source code to fulfill the course project requirement
   4. ***tidydataset.txt*** - includes the tidy data as required by the course project
 
